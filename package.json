@@ -8,8 +8,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "dev": "vite",
-    "build": "vite build",
-    "buildx": "vite build -- base=https://jafechter.github.io/JamesFechter_React_Portfolio/",
+    "build": "vite build --base=/JamesFechter_React_Portfolio/",
     "lint": "eslint .",
     "preview": "vite preview"
   },

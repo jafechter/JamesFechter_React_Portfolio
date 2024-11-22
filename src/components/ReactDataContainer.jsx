@@ -1,3 +1,5 @@
+// import IMG from "../assets/PigGame.png";
+
 const jsonReactData = [
   {
     title: "Pig Game",
