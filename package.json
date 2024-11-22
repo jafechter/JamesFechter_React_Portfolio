@@ -1,6 +1,7 @@
 {
   "name": "fechterdevportfolio",
-  "private": true,
+  "private": false,
+  "homepage": "https://jafechter.github.io/JamesFechter_React_Portfolio/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
