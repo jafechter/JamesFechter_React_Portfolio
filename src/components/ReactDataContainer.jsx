@@ -1,10 +1,11 @@
 const jsonReactData = [
   {
-    title: "Pig Game",
+    title: "Explaining React with React",
     description:
-      "Utilizing a random number generator from 1 to 6, roll a die and the first to 20 wins the game! If you get a 1 before you hold your points, you will lose all of them and forfeit your turn.",
-    link: "https://jafechter.github.io/JavaScript-PigGame-Project/",
-    source: "https://github.com/jafechter/JavaScript-PigGame-Project",
+      "This page provides information around the building blocks of a React application. This includes components, JSX, props, and state management",
+    link: "https://jafechter.github.io/Explaining_React_with_React/",
+    source:
+      "https://github.com/jafechter/Explaining_React_with_React/tree/master",
   },
   {
     title: "Guess my Number",
