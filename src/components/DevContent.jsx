@@ -11,26 +11,38 @@ function DevContent() {
     <>
       <h2>React Projects</h2>
       <div className="project-images">
-        <a href="https://jafechter.github.io/Explaining_React_with_React/">
+        <a
+          href="https://jafechter.github.io/Explaining_React_with_React/"
+          target="_blank"
+        >
           <img src={IMG3} alt="Explaining React with React" />
         </a>
-        <a href="https://jafechter.github.io/Tic_Tac_Toe/">
+        <a href="https://jafechter.github.io/Tic_Tac_Toe/" target="_blank">
           <img src={IMG6} alt="Tic-Tac-Toe" />
         </a>
-        <a href="https://jafechter.github.io/HTTP_Request_Locations/">
+        <a
+          href="https://jafechter.github.io/HTTP_Request_Locations/"
+          target="_blank"
+        >
           <img src={IMG4} alt="HTTP Request Place Picker" />
         </a>
-        <a href="https://jafechter.github.io/Refs_and_Portals/">
+        <a href="https://jafechter.github.io/Refs_and_Portals/" target="_blank">
           <img src={IMG5} alt="Countdown Game" />
         </a>
       </div>
       <ReactDataContainer />
       <h2>JavaScript Projects</h2>
       <div className="project-images">
-        <a href="https://jafechter.github.io/JavaScript-PigGame-Project/">
+        <a
+          href="https://jafechter.github.io/JavaScript-PigGame-Project/"
+          target="_blank"
+        >
           <img src={IMG} alt="Pig Game" />
         </a>
-        <a href="https://jafechter.github.io/JavaScript-GuessMyNumber/">
+        <a
+          href="https://jafechter.github.io/JavaScript-GuessMyNumber/"
+          target="_blank"
+        >
           <img src={IMG2} alt="Guess My Number" />
         </a>
       </div>
