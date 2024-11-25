@@ -14,19 +14,29 @@ function DevContent() {
         <a
           href="https://jafechter.github.io/Explaining_React_with_React/"
           target="_blank"
+          rel="noopener noreferrer"
         >
           <img src={IMG3} alt="Explaining React with React" />
         </a>
-        <a href="https://jafechter.github.io/Tic_Tac_Toe/" target="_blank">
+        <a
+          href="https://jafechter.github.io/Tic_Tac_Toe/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <img src={IMG6} alt="Tic-Tac-Toe" />
         </a>
         <a
           href="https://jafechter.github.io/HTTP_Request_Locations/"
           target="_blank"
+          rel="noopener noreferrer"
         >
           <img src={IMG4} alt="HTTP Request Place Picker" />
         </a>
-        <a href="https://jafechter.github.io/Refs_and_Portals/" target="_blank">
+        <a
+          href="https://jafechter.github.io/Refs_and_Portals/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <img src={IMG5} alt="Countdown Game" />
         </a>
       </div>
@@ -36,12 +46,14 @@ function DevContent() {
         <a
           href="https://jafechter.github.io/JavaScript-PigGame-Project/"
           target="_blank"
+          rel="noopener noreferrer"
         >
           <img src={IMG} alt="Pig Game" />
         </a>
         <a
           href="https://jafechter.github.io/JavaScript-GuessMyNumber/"
           target="_blank"
+          rel="noopener noreferrer"
         >
           <img src={IMG2} alt="Guess My Number" />
         </a>
