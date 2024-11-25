@@ -8,12 +8,19 @@ const jsonReactData = [
       "https://github.com/jafechter/Explaining_React_with_React/tree/master",
   },
   {
-    title: "Guess my Number",
+    title: "Place Picker",
 
     description:
-      "Guess a number between 1 and 20, guess correctly and get the highest score you can (20)! With each wrong answer, you lose a point. Don't worry there are hints to help you get the highest score possible!",
-    link: "https://jafechter.github.io/JavaScript-GuessMyNumber/",
-    source: "https://github.com/jafechter/JavaScript-GuessMyNumber",
+      "This application is an example of how to build out HTTP requests via a Node.js Backend. It provides a list of places you may want to visit as a vision board for desired travel.",
+    link: "https://jafechter.github.io/HTTP_Request_Locations/",
+    source: "https://github.com/jafechter/HTTP_Request_Locations/tree/master",
+  },
+  {
+    title: "Countdown Game",
+
+    description: "Choose your challenge level and get as close as you can.",
+    link: "https://jafechter.github.io/Refs_and_Portals/",
+    source: "https://github.com/jafechter/Refs_and_Portals/tree/master",
   },
 ];
 
