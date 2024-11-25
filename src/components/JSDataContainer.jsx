@@ -13,13 +13,6 @@ const jsonJSData = [
     link: "https://jafechter.github.io/JavaScript-GuessMyNumber/",
     source: "https://github.com/jafechter/JavaScript-GuessMyNumber",
   },
-  {
-    title: "Tic-Tac-Toe",
-    description:
-      "Tic-tac-toe is a two-player game where players take turns marking a 3x3 grid with X's or O's, aiming to align three in a row to win.",
-    link: "https://jafechter.github.io/Tic_Tac_Toe/",
-    source: "https://github.com/jafechter/Tic_Tac_Toe/tree/master",
-  },
 ];
 
 const JSDataContainer = () => {

@@ -1,4 +1,4 @@
-import fechterPortfolioLogo from "../../public/Fechter_Coding_Portfolio.PNG";
+import fechterPortfolioLogo from "../assets/Fechter_Coding_Portfolio.PNG";
 
 function Header() {
   return (

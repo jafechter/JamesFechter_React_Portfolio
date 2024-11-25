@@ -22,6 +22,13 @@ const jsonReactData = [
     link: "https://jafechter.github.io/Refs_and_Portals/",
     source: "https://github.com/jafechter/Refs_and_Portals/tree/master",
   },
+  {
+    title: "Tic-Tac-Toe",
+    description:
+      "Tic-tac-toe is a two-player game where players take turns marking a 3x3 grid with X's or O's, aiming to align three in a row to win.",
+    link: "https://jafechter.github.io/Tic_Tac_Toe/",
+    source: "https://github.com/jafechter/Tic_Tac_Toe/tree/master",
+  },
 ];
 
 const ReactDataContainer = () => {
