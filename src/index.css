@@ -31,17 +31,30 @@ body {
   justify-content: center;
   min-width: 320px;
   min-height: 100vh;
-  background-color: #f9fafb;
+  background-color: #5e5e63;
   font-size: 16px;
   color: #333; /* Neutral dark gray for text */
-  padding: 20px;
+  padding: 10px;
+}
+
+.about-me {
+  font-size: 1.5rem;
 }
 
 h1 {
-  font-size: 3.5rem;
+  font-size: 3rem;
   line-height: 1.2;
   text-align: center;
   color: #34495e; /* Professional muted dark gray */
+  margin-top: 30px;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 2.3rem;
+  line-height: 1.2;
+  text-align: center;
+  color: #201e1e; /* Professional muted dark gray */
   margin-top: 30px;
   font-weight: 700;
 }
@@ -141,6 +154,56 @@ button:hover {
 .project-item:hover {
   transform: translateY(-5px);
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #34495e; /* Dark gray */
+  color: white;
+  z-index: 1000; /* Ensure the navbar stays on top of content */
+  padding: 10px 20px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.navbar-logo h1 {
+  margin: 0;
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: white;
+  text-transform: uppercase;
+}
+
+.navbar-links {
+  display: flex;
+  gap: 20px;
+  list-style-type: none;
+  margin: 0;
+}
+
+.navbar-links li {
+  font-size: 1.1rem;
+}
+
+.navbar-links a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.navbar-links a:hover {
+  color: #0077b6; /* Blue color on hover */
 }
 
 @media (prefers-color-scheme: dark) {

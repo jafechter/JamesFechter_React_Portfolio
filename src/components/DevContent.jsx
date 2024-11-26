@@ -83,8 +83,15 @@ const DevContent = () => {
 
   return (
     <>
+      <h1>Development Projects</h1>
+      <div id="react-projects">
+        <br />
+      </div>
       <h2>React Projects</h2>
       <div className="project-grid">{renderProjects(reactProjects)}</div>
+      <div id="js-projects">
+        <br />
+      </div>
       <h2>JavaScript Projects</h2>
       <div className="project-grid">{renderProjects(jsProjects)}</div>
     </>
