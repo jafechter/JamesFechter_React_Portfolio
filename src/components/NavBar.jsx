@@ -1,9 +1,11 @@
+import homeIcon from "../assets/icons8-home.svg";
+
 const NavigationBar = () => {
   return (
     <nav className="navbar">
       <div className="navbar-container">
-        <a href="#about-me" className="navbar-logo">
-          <h1></h1>
+        <a href="logo-container" className="navbar-logo">
+          <img src={homeIcon} />
         </a>
         <ul className="navbar-links">
           <li>

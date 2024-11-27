@@ -33,7 +33,7 @@ function Header() {
 
   const aboutMeText = `
     Hi, I'm James Fechter and I am currently ${age} years old. With over twelve years of experience in Project and Product Management, I've successfully led cross-functional teams, streamlined workflows, and delivered high-impact technical projects. Recently, I've transitioned my focus towards web development, bringing my strong foundation in managing complex projects to my new passion for coding and development.
-
+  
     I'm currently building my skills in web technologies like React, JavaScript, HTML, CSS, SQL, and more. My background in project management has given me a deep understanding of the development lifecycle, and I apply that knowledge to write clean, efficient code, while also focusing on creating seamless and intuitive user experiences.
 
     Having worked with diverse teams and product lines, I bring a unique perspective to development—one that emphasizes both the technical and strategic aspects of building robust web applications. With certifications in ScrumMaster and PMP, I am committed to delivering solutions that meet business objectives while maintaining a user-first approach.
